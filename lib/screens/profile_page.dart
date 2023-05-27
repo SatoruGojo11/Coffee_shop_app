@@ -76,7 +76,7 @@ class _ProfilePageState extends State<ProfilePage> {
                   'jaydip@gmail.com',
                   style: TextStyle(
                       color: Colors.white,
-                      fontSize: 15,
+                      fontSize: 10,
                       fontWeight: FontWeight.w500),
                 ),
               ],
